@@ -1,0 +1,29 @@
+# AI search crawlers
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# Training crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Default rule
+User-agent: *
+Allow: /
+
+Sitemap: https://master-pp.ru/sitemap.xml
+Host: master-pp.ru

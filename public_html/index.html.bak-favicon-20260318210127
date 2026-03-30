@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Частный сантехник в Павловском Посаде, Электростали, Электрогорске и Орехово-Зуево. Устранение протечек, прочистка канализации, замена труб, установка унитазов, раковин, бойлеров и смесителей.">
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#2563eb">
+    <title>Сантехник в Павловском Посаде и области | Мастер ПП</title>
+    <link rel="canonical" href="https://master-pp.ru/">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="ru_RU">
+    <meta property="og:title" content="Сантехник в Павловском Посаде и области | Мастер ПП">
+    <meta property="og:description" content="Выезд сантехника в день обращения: течи, засоры, бойлеры, трубы, унитазы, ванны и кухонная сантехника.">
+    <meta property="og:url" content="https://master-pp.ru/">
+    <meta property="og:image" content="https://master-pp.ru/img/hero-plumber-alt.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Сантехник в Павловском Посаде и области | Мастер ПП">
+    <meta name="twitter:description" content="Частный сантехник с выездом на дом и гарантией на работы.">
+    <meta name="twitter:image" content="https://master-pp.ru/img/hero-plumber-alt.jpg">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Plumber",
+            "@id": "https://master-pp.ru/#business",
+            "name": "Мастер ПП",
+            "image": "https://master-pp.ru/img/master-portrait-alt.jpg",
+            "url": "https://master-pp.ru/",
+            "telephone": "+7-977-100-22-62",
+            "priceRange": "$$",
+            "description": "Частный сантехник в Павловском Посаде и ближайших городах. Устранение течей, прочистка канализации, замена труб, установка сантехники и бойлеров.",
+            "areaServed": [
+                { "@type": "City", "name": "Павловский Посад" },
+                { "@type": "City", "name": "Электросталь" },
+                { "@type": "City", "name": "Электрогорск" },
+                { "@type": "City", "name": "Орехово-Зуево" }
+            ],
+            "openingHours": "Mo-Su 08:00-22:00"
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Сколько стоит вызов сантехника?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Стоимость зависит от объема работ. Большинство типовых задач начинается от 800-1500 рублей, а точную цену мастер называет после осмотра."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Можно ли вызвать сантехника срочно?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Да, по Павловскому Посаду и ближайшим городам возможен срочный выезд в день обращения."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Даете ли вы гарантию на работы?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Да, на выполненные сантехнические работы предоставляется гарантия до 24 месяцев в зависимости от услуги."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Выполняете ли вы замену труб под ключ?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Да, мастер выполняет частичную и полную замену труб, разводку воды, замену стояков и подключение сантехнических приборов."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Можно ли прислать фото и получить предварительную оценку?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Да, фото или короткое видео проблемы можно отправить в WhatsApp. Это помогает быстрее понять срочность и предварительный объем работ."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Работаете ли вы с материалами заказчика?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Да, мастер может работать как с вашими материалами, так и помочь с подбором и закупкой более надежных комплектующих."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Обслуживаете ли вы частные дома и дачи?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Да, сантехнические работы выполняются не только в квартирах, но и в частных домах, дачах и небольших коммерческих помещениях."
+                    }
+                }
+            ]
+        }
+    </script>
+</head>
+<body>
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function(m,e,t,r,i,k,a){
+            m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+            m[i].l=1*new Date();
+            for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+            k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+        })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=107091288', 'ym');
+
+        ym(107091288, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/107091288" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+
+    <!-- Header -->
+    <header class="header" id="header">
+        <div class="container header__inner">
+            <a href="#" class="logo">
+                <span class="logo__icon">&#128295;</span>
+                <span class="logo__text">Мастер<span class="logo__accent">ПП</span></span>
+            </a>
+            <nav class="nav" id="nav">
+                <a href="#services" class="nav__link">Услуги</a>
+                <a href="#about" class="nav__link">О мастере</a>
+                <a href="#gallery" class="nav__link">Работы</a>
+                <a href="#blog" class="nav__link">Блог</a>
+                <a href="#pricing" class="nav__link">Цены</a>
+                <a href="#contact" class="nav__link">Контакты</a>
+            </nav>
+            <a href="tel:+79771002262" class="header__phone">
+                <span class="header__phone-icon">&#128222;</span>
+                +7 (977) 100-22-62
+            </a>
+            <button class="burger" id="burger" aria-label="Меню">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container hero__inner">
+            <div class="hero__content">
+                <div class="hero__badge">Сантехник с выездом в день обращения</div>
+                <h1 class="hero__title">Частный сантехник <span class="text-accent">в Павловском Посаде и области</span></h1>
+                <p class="hero__subtitle">Устраняю протечки и засоры, меняю трубы, устанавливаю унитазы, раковины, ванны, душевые кабины, бойлеры и кухонную сантехнику. Работаю лично, без посредников, с гарантией на результат.</p>
+                <div class="hero__highlights">
+                    <span class="hero__highlight">Течи и аварийные вызовы</span>
+                    <span class="hero__highlight">Бойлеры и водонагреватели</span>
+                    <span class="hero__highlight">Замена труб и разводка воды</span>
+                </div>
+                <div class="hero__actions">
+                    <a href="tel:+79771002262" class="btn btn--primary btn--lg">
+                        <span class="btn__icon">&#128222;</span>
+                        Позвонить мастеру
+                    </a>
+                    <a href="https://wa.me/79771002262" class="btn btn--outline btn--lg" target="_blank" rel="noopener">Написать в WhatsApp</a>
+                </div>
+                <div class="hero__stats">
+                    <div class="hero__stat">
+                        <span class="hero__stat-number">10+</span>
+                        <span class="hero__stat-label">лет опыта</span>
+                    </div>
+                    <div class="hero__stat">
+                        <span class="hero__stat-number">1500+</span>
+                        <span class="hero__stat-label">выполненных заявок</span>
+                    </div>
+                    <div class="hero__stat">
+                        <span class="hero__stat-number">60 мин</span>
+                        <span class="hero__stat-label">срочный выезд</span>
+                    </div>
+                </div>
+            </div>
+            <div class="hero__image">
+                <img src="img/hero-plumber-alt.jpg" alt="Частный сантехник выполняет обслуживание бойлера" loading="eager">
+            </div>
+        </div>
+    </section>
+
+    <!-- Advantages -->
+    <section class="advantages">
+        <div class="container">
+            <div class="advantages__grid">
+                <div class="advantage">
+                    <div class="advantage__icon">&#9201;</div>
+                    <div class="advantage__title">Быстрый выезд</div>
+                    <div class="advantage__text">Приезжаю в Павловский Посад и ближайшие города в удобное время, включая выходные и срочные заявки.</div>
+                </div>
+                <div class="advantage">
+                    <div class="advantage__icon">&#128176;</div>
+                    <div class="advantage__title">Понятная цена</div>
+                    <div class="advantage__text">Согласовываю стоимость до начала работ и не добавляю скрытых доплат после завершения.</div>
+                </div>
+                <div class="advantage">
+                    <div class="advantage__icon">&#128295;</div>
+                    <div class="advantage__title">Полный комплект инструмента</div>
+                    <div class="advantage__text">Беру с собой всё необходимое для ремонта, монтажа, диагностики и замены сантехники на объекте.</div>
+                </div>
+                <div class="advantage">
+                    <div class="advantage__icon">&#9989;</div>
+                    <div class="advantage__title">Гарантия на работу</div>
+                    <div class="advantage__text">Даю гарантию до 24 месяцев на выполненные сантехнические работы и помогаю с подбором материалов.</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services -->
+    <section class="services" id="services">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-label">Что делаю</span>
+                <h2 class="section-title">Сантехнические услуги</h2>
+                <p class="section-subtitle">Работаю с квартирами, частными домами, дачами и коммерческими помещениями: от небольшого ремонта до комплексной замены сантехники.</p>
+            </div>
+
+            <div class="services__content active" id="tab-plumbing">
+                <div class="services__grid">
+                    <article class="service-card">
+                        <div class="service-card__image">
+                            <img src="img/service-shower-repair-alt.jpg" alt="Ремонт душевой системы и устранение протечек" loading="lazy">
+                        </div>
+                        <div class="service-card__body">
+                            <h3 class="service-card__title">Устранение протечек и ремонт смесителей</h3>
+                            <p class="service-card__text">Нахожу причину течи, меняю смесители, шланги, эксцентрики, прокладки и поврежденные соединения без лишнего демонтажа.</p>
+                            <span class="service-card__price">от 1 000 &#8381;</span>
+                        </div>
+                    </article>
+                    <article class="service-card">
+                        <div class="service-card__image">
+                            <img src="img/service-boiler-installation-alt.jpg" alt="Монтаж и обслуживание бойлера" loading="lazy">
+                        </div>
+                        <div class="service-card__body">
+                            <h3 class="service-card__title">Монтаж и обслуживание бойлеров</h3>
+                            <p class="service-card__text">Устанавливаю, подключаю и обслуживаю водонагреватели, проверяю давление, безопасность подключения и состояние арматуры.</p>
+                            <span class="service-card__price">от 2 500 &#8381;</span>
+                        </div>
+                    </article>
+                    <article class="service-card">
+                        <div class="service-card__image">
+                            <img src="img/service-sewer-cleaning-alt.jpg" alt="Прочистка канализации и устранение засора" loading="lazy">
+                        </div>
+                        <div class="service-card__body">
+                            <h3 class="service-card__title">Прочистка канализации и засоров</h3>
+                            <p class="service-card__text">Прочищаю кухонные и санузловые засоры, канализационные трубы, сифоны и наружные участки с восстановлением нормального слива.</p>
+                            <span class="service-card__price">от 1 500 &#8381;</span>
+                        </div>
+                    </article>
+                    <article class="service-card">
+                        <div class="service-card__image">
+                            <img src="img/service-toilet-installation-alt.jpg" alt="Установка унитаза и другой сантехники" loading="lazy">
+                        </div>
+                        <div class="service-card__body">
+                            <h3 class="service-card__title">Установка унитазов и сантехники</h3>
+                            <p class="service-card__text">Монтирую унитазы, инсталляции, раковины, ванны, душевые кабины, полотенцесушители и комплектующую арматуру.</p>
+                            <span class="service-card__price">от 2 000 &#8381;</span>
+                        </div>
+                    </article>
+                    <article class="service-card">
+                        <div class="service-card__image">
+                            <img src="img/service-pipe-replacement-alt.jpg" alt="Замена труб и разводка водоснабжения" loading="lazy">
+                        </div>
+                        <div class="service-card__body">
+                            <h3 class="service-card__title">Замена труб и разводка воды</h3>
+                            <p class="service-card__text">Меняю стояки, участки водоснабжения и канализации, делаю разводку для кухни, санузла, бойлера и бытовой техники.</p>
+                            <span class="service-card__price">от 3 000 &#8381;</span>
+                        </div>
+                    </article>
+                    <article class="service-card">
+                        <div class="service-card__image">
+                            <img src="img/service-kitchen-plumbing-alt.jpg" alt="Подключение мойки, фильтра и кухонной техники" loading="lazy">
+                        </div>
+                        <div class="service-card__body">
+                            <h3 class="service-card__title">Кухонная сантехника и техника</h3>
+                            <p class="service-card__text">Подключаю мойки, сифоны, смесители, фильтры, стиральные и посудомоечные машины, устраняю запахи и обратный слив.</p>
+                            <span class="service-card__price">от 1 000 &#8381;</span>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About -->
+    <section class="about" id="about">
+        <div class="container about__inner">
+            <div class="about__images">
+                <div class="about__image about__image--main">
+                    <img src="img/service-pipe-replacement-alt.jpg" alt="Частный сантехник выполняет замену труб" loading="lazy">
+                </div>
+                <div class="about__image about__image--secondary">
+                    <img src="img/master-portrait-alt.jpg" alt="Частный сантехник Павел за работой" loading="lazy">
+                </div>
+                <div class="about__experience">
+                    <span class="about__experience-number">10+</span>
+                    <span class="about__experience-text">лет опыта</span>
+                </div>
+            </div>
+            <div class="about__content">
+                <span class="section-label">О мастере</span>
+                <h2 class="section-title section-title--left">Работаю лично и отвечаю за результат</h2>
+                <p class="about__text">Меня зовут Павел. Я частный сантехник с практическим опытом более 10 лет. Занимаюсь только сантехническими работами: аварийными выездами, заменой труб, монтажом сантехники, бойлеров и обслуживанием систем водоснабжения.</p>
+                <div class="about__features">
+                    <div class="about__feature">
+                        <span class="about__feature-icon">&#10003;</span>
+                        <span>Без посредников и лишних наценок</span>
+                    </div>
+                    <div class="about__feature">
+                        <span class="about__feature-icon">&#10003;</span>
+                        <span>Подбор материалов и помощь с закупкой</span>
+                    </div>
+                    <div class="about__feature">
+                        <span class="about__feature-icon">&#10003;</span>
+                        <span>Чистая работа и аккуратный монтаж</span>
+                    </div>
+                    <div class="about__feature">
+                        <span class="about__feature-icon">&#10003;</span>
+                        <span>Фото реальных работ, а не чужие картинки</span>
+                    </div>
+                    <div class="about__feature">
+                        <span class="about__feature-icon">&#10003;</span>
+                        <span>Гарантия и понятные рекомендации после ремонта</span>
+                    </div>
+                </div>
+                <a href="tel:+79771002262" class="btn btn--primary btn--lg">Вызвать сантехника</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery -->
+    <section class="gallery" id="gallery">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-label">Портфолио</span>
+                <h2 class="section-title">Реальные сантехнические работы</h2>
+                <p class="section-subtitle">На сайте использованы фотографии мастера с реальных объектов: бойлеры, трубы, душевые, унитазы и кухонная сантехника.</p>
+            </div>
+            <div class="gallery__grid">
+                <div class="gallery__item">
+                    <img src="img/service-shower-repair-alt.jpg" alt="Ремонт душевой системы" loading="lazy">
+                    <div class="gallery__overlay">
+                        <span>Ремонт душевой системы</span>
+                    </div>
+                </div>
+                <div class="gallery__item">
+                    <img src="img/service-boiler-installation-alt.jpg" alt="Обслуживание бойлера" loading="lazy">
+                    <div class="gallery__overlay">
+                        <span>Обслуживание бойлера</span>
+                    </div>
+                </div>
+                <div class="gallery__item">
+                    <img src="img/service-toilet-installation-alt.jpg" alt="Установка унитаза" loading="lazy">
+                    <div class="gallery__overlay">
+                        <span>Установка унитаза</span>
+                    </div>
+                </div>
+                <div class="gallery__item">
+                    <img src="img/service-pipe-replacement-alt.jpg" alt="Диагностика и замена труб" loading="lazy">
+                    <div class="gallery__overlay">
+                        <span>Диагностика и замена труб</span>
+                    </div>
+                </div>
+                <div class="gallery__item">
+                    <img src="img/service-kitchen-plumbing-alt.jpg" alt="Подключение кухонной сантехники" loading="lazy">
+                    <div class="gallery__overlay">
+                        <span>Подключение кухонной сантехники</span>
+                    </div>
+                </div>
+                <div class="gallery__item">
+                    <img src="img/master-portrait-alt.jpg" alt="Мастер Павел за работой" loading="lazy">
+                    <div class="gallery__overlay">
+                        <span>Частный сантехник Павел</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pricing -->
+    <section class="pricing" id="pricing">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-label">Стоимость</span>
+                <h2 class="section-title">Прайс-лист по сантехнике</h2>
+                <p class="section-subtitle">Точная стоимость зависит от объема работ и состояния коммуникаций. Базовые цены помогут понять порядок бюджета еще до звонка.</p>
+            </div>
+            <div class="pricing__grid">
+                <div class="pricing__table">
+                    <div class="pricing__table-header">
+                        <span class="pricing__table-icon">&#128703;</span>
+                        <h3>Монтаж и замена</h3>
+                    </div>
+                    <div class="pricing__table-body">
+                        <div class="pricing__row">
+                            <span>Замена смесителя</span>
+                            <span class="pricing__dots"></span>
+                            <span class="pricing__value">от 1 000 &#8381;</span>
+                        </div>
+                        <div class="pricing__row">
+                            <span>Установка унитаза</span>
+                            <span class="pricing__dots"></span>
+                            <span class="pricing__value">от 2 000 &#8381;</span>
+                        </div>
+                        <div class="pricing__row">
+                            <span>Установка раковины</span>
+                            <span class="pricing__dots"></span>
+                            <span class="pricing__value">от 1 500 &#8381;</span>
+                        </div>
+                        <div class="pricing__row">
+                            <span>Монтаж ванны или душевой кабины</span>
+                            <span class="pricing__dots"></span>
+                            <span class="pricing__value">от 3 000 &#8381;</span>
+                        </div>
+                        <div class="pricing__row">
+                            <span>Монтаж бойлера</span>
+                            <span class="pricing__dots"></span>
+                            <span class="pricing__value">от 2 500 &#8381;</span>
+                        </div>
+                        <div class="pricing__row">
+                            <span>Разводка труб водоснабжения</span>
+                            <span class="pricing__dots"></span>
+                            <span class="pricing__value">от 3 000 &#8381;</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="pricing__table">
+                    <div class="pricing__table-header pricing__table-header--service">
+                        <span class="pricing__table-icon">&#128167;</span>
+                        <h3>Ремонт и аварийные работы</h3>
+                    </div>
+                    <div class="pricing__table-body">
+                        <div class="pricing__row">
+                            <span>Устранение протечки</span>
+                            <span class="pricing__dots"></span>
+                            <span class="pricing__value">от 800 &#8381;</span>
+                        </div>
+                        <div class="pricing__row">
+                            <span>Прочистка канализации</span>
+                            <span class="pricing__dots"></span>
+                            <span class="pricing__value">от 1 500 &#8381;</span>
+                        </div>
+                        <div class="pricing__row">
+                            <span>Замена сифона</span>
+                            <span class="pricing__dots"></span>
+                            <span class="pricing__value">от 1 000 &#8381;</span>
+                        </div>
+                        <div class="pricing__row">
+                            <span>Замена полотенцесушителя</span>
+                            <span class="pricing__dots"></span>
+                            <span class="pricing__value">от 2 500 &#8381;</span>
+                        </div>
+                        <div class="pricing__row">
+                            <span>Замена участка труб</span>
+                            <span class="pricing__dots"></span>
+                            <span class="pricing__value">от 2 000 &#8381;</span>
+                        </div>
+                        <div class="pricing__row">
+                            <span>Диагностика неисправности</span>
+                            <span class="pricing__dots"></span>
+                            <span class="pricing__value">от 1 000 &#8381;</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="seo-copy">
+        <div class="container seo-copy__inner">
+            <div class="section-header section-header--narrow">
+                <span class="section-label">Локальное SEO</span>
+                <h2 class="section-title">Сантехник в Павловском Посаде, Электростали, Электрогорске и Орехово-Зуево</h2>
+                <p class="section-subtitle">Эта страница оптимизирована под популярные запросы по сантехническим услугам в вашем районе и помогает продвигать сайт по коммерческим и информационным ключам.</p>
+            </div>
+            <div class="seo-copy__grid">
+                <div class="seo-copy__card">
+                    <h3>Какие задачи закрываю</h3>
+                    <p>Часто ко мне обращаются, когда нужен сантехник на дом для устранения течи, замены труб, монтажа унитаза, подключения бойлера или прочистки канализации. Работаю с типовыми аварийными ситуациями и с плановым ремонтом в квартирах и частных домах.</p>
+                </div>
+                <div class="seo-copy__card">
+                    <h3>Почему это полезно для продвижения</h3>
+                    <p>На сайте есть коммерческие блоки с услугами, ценами, фото мастера и зонами обслуживания, а также отдельный блог по сантехнике. Это создает хорошую базу для продвижения по запросам вроде “сантехник Павловский Посад”, “прочистка канализации”, “замена труб в квартире”.</p>
+                </div>
+                <div class="seo-copy__card">
+                    <h3>Где работаю</h3>
+                    <p>Основной выезд: Павловский Посад. Также работаю в Электростали, Электрогорске, Орехово-Зуево и соседних населенных пунктах по договоренности. Для срочных вызовов лучше сразу звонить или писать в WhatsApp.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="blog-preview" id="blog">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-label">SEO-блог</span>
+                <h2 class="section-title">Полезные статьи по сантехнике</h2>
+                <p class="section-subtitle">Добавлен блог с отдельными страницами статей, чтобы продвигать сайт не только по услугам, но и по информационным запросам.</p>
+            </div>
+            <div class="blog-grid">
+                <article class="blog-card">
+                    <div class="blog-card__meta">
+                        <span>15 марта 2026</span>
+                        <span>6 минут</span>
+                    </div>
+                    <h3 class="blog-card__title">Как выбрать сантехника в Павловском Посаде и не переплатить</h3>
+                    <p class="blog-card__text">Разбираю, на что смотреть перед вызовом мастера: фото работ, прозрачный прайс, специализация и реальные гарантии.</p>
+                    <a class="blog-card__link" href="blog/kak-vybrat-santehnika-v-pavlovskom-posade.html">Читать статью</a>
+                </article>
+                <article class="blog-card">
+                    <div class="blog-card__meta">
+                        <span>15 марта 2026</span>
+                        <span>5 минут</span>
+                    </div>
+                    <h3 class="blog-card__title">Протечка смесителя: что можно сделать сразу, а когда лучше звать мастера</h3>
+                    <p class="blog-card__text">Короткий алгоритм действий при протечке и список признаков, когда самостоятельный ремонт только увеличит расход воды и ущерб.</p>
+                    <a class="blog-card__link" href="blog/protechka-smesitelya-chto-delat-srazu.html">Читать статью</a>
+                </article>
+                <article class="blog-card">
+                    <div class="blog-card__meta">
+                        <span>15 марта 2026</span>
+                        <span>7 минут</span>
+                    </div>
+                    <h3 class="blog-card__title">Когда нужна прочистка канализации и как не довести трубы до аварии</h3>
+                    <p class="blog-card__text">Объясняю ранние признаки засора, почему запахи и медленный слив нельзя игнорировать, и как сократить риск повторной проблемы.</p>
+                    <a class="blog-card__link" href="blog/kogda-nuzhna-prochistka-kanalizatsii.html">Читать статью</a>
+                </article>
+            </div>
+            <div class="blog-preview__actions">
+                <a href="blog/" class="btn btn--primary btn--lg">Открыть блог</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="faq">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-label">FAQ</span>
+                <h2 class="section-title">Частые вопросы по сантехническим работам</h2>
+                <p class="section-subtitle">Блок добавлен не только для удобства клиентов, но и как дополнительная SEO-структура под популярные запросы.</p>
+            </div>
+            <div class="faq__list">
+                <details class="faq__item" open>
+                    <summary class="faq__question">Сколько стоит вызов сантехника на дом?</summary>
+                    <div class="faq__answer">
+                        <p>Если речь о стандартной задаче, например замене смесителя или устранении протечки, цены чаще всего начинаются от 800-1500 рублей. Итоговая стоимость зависит от сложности доступа, состояния труб и необходимости дополнительных материалов.</p>
+                    </div>
+                </details>
+                <details class="faq__item">
+                    <summary class="faq__question">Можно ли приехать срочно, если течет вода?</summary>
+                    <div class="faq__answer">
+                        <p>Да. В аварийных случаях лучше сразу звонить. По Павловскому Посаду и ближайшим районам стараюсь выезжать максимально быстро, чтобы локализовать течь и снизить ущерб.</p>
+                    </div>
+                </details>
+                <details class="faq__item">
+                    <summary class="faq__question">Делаете ли замену труб под ключ?</summary>
+                    <div class="faq__answer">
+                        <p>Да, выполняю как частичную замену проблемного участка, так и полную замену труб и разводки в квартире, доме или санузле во время ремонта.</p>
+                    </div>
+                </details>
+                <details class="faq__item">
+                    <summary class="faq__question">Можно ли установить сантехнику из материалов заказчика?</summary>
+                    <div class="faq__answer">
+                        <p>Да, можно. Если материалы уже куплены, перед монтажом проверю комплектность и совместимость. Если нужны рекомендации, помогу подобрать более надежные комплектующие.</p>
+                    </div>
+                </details>
+                <details class="faq__item">
+                    <summary class="faq__question">Есть ли гарантия на выполненные работы?</summary>
+                    <div class="faq__answer">
+                        <p>Да, на сантехнические работы предоставляется гарантия. Срок зависит от услуги и используемых материалов, но обычно составляет до 24 месяцев.</p>
+                    </div>
+                </details>
+                <details class="faq__item">
+                    <summary class="faq__question">Можно ли прислать фото и получить предварительную оценку?</summary>
+                    <div class="faq__answer">
+                        <p>Да, можно. Фото или короткое видео удобно отправить в WhatsApp. По ним обычно сразу видно срочность проблемы и понятнее предварительный объем работ.</p>
+                    </div>
+                </details>
+                <details class="faq__item">
+                    <summary class="faq__question">Работаете ли вы с материалами заказчика?</summary>
+                    <div class="faq__answer">
+                        <p>Да. Если материалы уже куплены, проверю их совместимость и комплектность. Если нужно, подскажу, что лучше заменить на более надежные позиции.</p>
+                    </div>
+                </details>
+                <details class="faq__item">
+                    <summary class="faq__question">Обслуживаете ли вы частные дома и дачи?</summary>
+                    <div class="faq__answer">
+                        <p>Да, работаю не только по квартирам. Выезжаю в частные дома, дачи и небольшие коммерческие помещения по Павловскому Посаду и соседним городам.</p>
+                    </div>
+                </details>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="cta">
+        <div class="container cta__inner">
+            <div class="cta__content">
+                <h2 class="cta__title">Нужен сантехник сегодня?</h2>
+                <p class="cta__text">Позвоните или напишите в WhatsApp. Расскажу по стоимости, помогу понять срочность проблемы и договоримся о выезде на удобное время.</p>
+            </div>
+            <div class="cta__actions">
+                <a href="tel:+79771002262" class="btn btn--white btn--lg">
+                    <span class="btn__icon">&#128222;</span>
+                    +7 (977) 100-22-62
+                </a>
+                <a href="https://wa.me/79771002262" class="btn btn--whatsapp btn--lg" target="_blank" rel="noopener">
+                    WhatsApp
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact -->
+    <section class="contact" id="contact">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-label">Связаться</span>
+                <h2 class="section-title">Контакты сантехника</h2>
+                <p class="section-subtitle">Свяжитесь удобным способом: по телефону, в WhatsApp или через форму заявки.</p>
+            </div>
+            <div class="contact__grid">
+                <div class="contact__info">
+                    <div class="contact__card">
+                        <div class="contact__card-icon">&#128222;</div>
+                        <div class="contact__card-content">
+                            <h3>Телефон</h3>
+                            <a href="tel:+79771002262">+7 (977) 100-22-62</a>
+                            <p>Ежедневно с 8:00 до 22:00</p>
+                        </div>
+                    </div>
+                    <div class="contact__card">
+                        <div class="contact__card-icon">&#128172;</div>
+                        <div class="contact__card-content">
+                            <h3>WhatsApp</h3>
+                            <a href="https://wa.me/79771002262" target="_blank" rel="noopener">Написать в WhatsApp</a>
+                            <p>Отвечаю обычно в течение 15 минут</p>
+                        </div>
+                    </div>
+                    <div class="contact__card">
+                        <div class="contact__card-icon">&#128205;</div>
+                        <div class="contact__card-content">
+                            <h3>Зона обслуживания</h3>
+                            <p>Павловский Посад</p>
+                            <p>Электросталь</p>
+                            <p>Электрогорск</p>
+                            <p>Орехово-Зуево</p>
+                            <p>Выезд по области — по договоренности</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="contact__form-wrapper">
+                    <h3 class="contact__form-title">Оставить заявку</h3>
+                    <p class="contact__form-subtitle">Напишите, что случилось: течь, засор, замена труб, установка бойлера или другой сантехнический вопрос.</p>
+                    <form class="contact__form" id="contactForm">
+                        <div class="form__group">
+                            <input type="text" class="form__input" name="name" placeholder="Ваше имя" required>
+                        </div>
+                        <div class="form__group">
+                            <input type="tel" class="form__input" name="phone" placeholder="Ваш телефон" required>
+                        </div>
+                        <div class="form__group">
+                            <textarea class="form__textarea" name="message" placeholder="Опишите проблему или задачу" rows="4"></textarea>
+                        </div>
+                        <button type="submit" class="btn btn--primary btn--lg btn--full">Отправить заявку</button>
+                        <p class="form__privacy">После отправки откроется WhatsApp с готовым сообщением мастеру. Нажимая кнопку, вы соглашаетесь с обработкой персональных данных.</p>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container footer__inner">
+            <div class="footer__logo">
+                <a href="#" class="logo">
+                    <span class="logo__icon">&#128295;</span>
+                    <span class="logo__text">Мастер<span class="logo__accent">ПП</span></span>
+                </a>
+                <p>Частный сантехник в Павловском Посаде и соседних городах. Ремонт, монтаж, замена труб, бойлеры, засоры и аварийные выезды.</p>
+            </div>
+            <div class="footer__links">
+                <h4>Разделы</h4>
+                <a href="#services">Услуги</a>
+                <a href="#gallery">Работы</a>
+                <a href="#blog">Блог</a>
+                <a href="#pricing">Цены</a>
+            </div>
+            <div class="footer__links">
+                <h4>Контакты</h4>
+                <a href="tel:+79771002262">+7 (977) 100-22-62</a>
+                <a href="https://wa.me/79771002262" target="_blank" rel="noopener">WhatsApp</a>
+                <a href="blog/">Блог по сантехнике</a>
+                <p>Ежедневно 8:00 — 22:00</p>
+            </div>
+        </div>
+        <div class="container">
+            <div class="footer__bottom">
+                <p>&copy; 2026 Мастер ПП. Все права защищены.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Floating Call Button (Mobile) -->
+    <a href="tel:+79771002262" class="floating-call" aria-label="Позвонить">
+        &#128222;
+    </a>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

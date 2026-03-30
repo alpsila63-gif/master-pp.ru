@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "master-pp",
+      "runtimeExecutable": "serve",
+      "runtimeArgs": ["."],
+      "port": 3000
+    }
+  ]
+}
