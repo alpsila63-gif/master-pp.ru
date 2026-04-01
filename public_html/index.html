@@ -26,6 +26,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/styles.min.css">
+    <link rel="stylesheet" href="css/pages.css">
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
@@ -225,73 +226,64 @@
     <section class="services" id="services">
         <div class="container">
             <div class="section-header">
-                <span class="section-label">Что делаю</span>
+                <span class="section-label">26 услуг</span>
                 <h2 class="section-title">Сантехнические услуги</h2>
-                <p class="section-subtitle">Работаю с квартирами, частными домами, дачами и коммерческими помещениями: от небольшого ремонта до комплексной замены сантехники.</p>
+                <p class="section-subtitle">Работаю с квартирами, частными домами, дачами и коммерческими помещениями. 26 видов сантехнических работ — от мелкого ремонта до комплексной замены коммуникаций.</p>
             </div>
 
             <div class="services__content active" id="tab-plumbing">
-                <div class="services__grid">
-                    <article class="service-card">
-                        <div class="service-card__image">
-                            <img src="img/service-shower-repair-alt.jpg" alt="Ремонт душевой системы и устранение протечек" width="960" height="852" loading="lazy">
-                        </div>
-                        <div class="service-card__body">
-                            <h3 class="service-card__title">Устранение протечек и ремонт смесителей</h3>
-                            <p class="service-card__text">Нахожу причину течи, меняю смесители, шланги, эксцентрики, прокладки и поврежденные соединения без лишнего демонтажа.</p>
-                            <span class="service-card__price">от 1 000 &#8381;</span>
-                        </div>
-                    </article>
-                    <article class="service-card">
-                        <div class="service-card__image">
-                            <img src="img/service-boiler-installation-alt.jpg" alt="Монтаж и обслуживание бойлера" width="930" height="900" loading="lazy">
-                        </div>
-                        <div class="service-card__body">
-                            <h3 class="service-card__title">Монтаж и обслуживание бойлеров</h3>
-                            <p class="service-card__text">Устанавливаю, подключаю и обслуживаю водонагреватели, проверяю давление, безопасность подключения и состояние арматуры.</p>
-                            <span class="service-card__price">от 2 500 &#8381;</span>
-                        </div>
-                    </article>
-                    <article class="service-card">
-                        <div class="service-card__image">
-                            <img src="img/service-sewer-cleaning-alt.jpg" alt="Прочистка канализации и устранение засора" width="936" height="792" loading="lazy">
-                        </div>
-                        <div class="service-card__body">
-                            <h3 class="service-card__title">Прочистка канализации и засоров</h3>
-                            <p class="service-card__text">Прочищаю кухонные и санузловые засоры, канализационные трубы, сифоны и наружные участки с восстановлением нормального слива.</p>
-                            <span class="service-card__price">от 1 500 &#8381;</span>
-                        </div>
-                    </article>
-                    <article class="service-card">
-                        <div class="service-card__image">
-                            <img src="img/service-toilet-installation-alt.jpg" alt="Установка унитаза и другой сантехники" width="900" height="900" loading="lazy">
-                        </div>
-                        <div class="service-card__body">
-                            <h3 class="service-card__title">Установка унитазов и сантехники</h3>
-                            <p class="service-card__text">Монтирую унитазы, инсталляции, раковины, ванны, душевые кабины, полотенцесушители и комплектующую арматуру.</p>
-                            <span class="service-card__price">от 2 000 &#8381;</span>
-                        </div>
-                    </article>
-                    <article class="service-card">
-                        <div class="service-card__image">
-                            <img src="img/service-pipe-replacement-alt.jpg" alt="Замена труб и разводка водоснабжения" width="919" height="1200" loading="lazy">
-                        </div>
-                        <div class="service-card__body">
-                            <h3 class="service-card__title">Замена труб и разводка воды</h3>
-                            <p class="service-card__text">Меняю стояки, участки водоснабжения и канализации, делаю разводку для кухни, санузла, бойлера и бытовой техники.</p>
-                            <span class="service-card__price">от 3 000 &#8381;</span>
-                        </div>
-                    </article>
-                    <article class="service-card">
-                        <div class="service-card__image">
-                            <img src="img/service-kitchen-plumbing-alt.jpg" alt="Подключение мойки, фильтра и кухонной техники" width="964" height="833" loading="lazy">
-                        </div>
-                        <div class="service-card__body">
-                            <h3 class="service-card__title">Кухонная сантехника и техника</h3>
-                            <p class="service-card__text">Подключаю мойки, сифоны, смесители, фильтры, стиральные и посудомоечные машины, устраняю запахи и обратный слив.</p>
-                            <span class="service-card__price">от 1 000 &#8381;</span>
-                        </div>
-                    </article>
+                <h3 style="font-size:18px;font-weight:700;color:var(--dark);margin-bottom:16px;">Установка сантехники</h3>
+                <div class="services__grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin-bottom:32px;">
+                    <a href="services/ustanovka-vanny.html" class="city-service-card"><div class="city-service-card__title">Установка ванны</div><div class="city-service-card__price">от 1 500 ₽</div></a>
+                    <a href="services/ustanovka-dushevoy-kabiny.html" class="city-service-card"><div class="city-service-card__title">Установка душевой кабины</div><div class="city-service-card__price">от 2 000 ₽</div></a>
+                    <a href="services/ustanovka-unitaza.html" class="city-service-card"><div class="city-service-card__title">Установка унитаза</div><div class="city-service-card__price">от 1 000 ₽</div></a>
+                    <a href="services/ustanovka-rakoviny.html" class="city-service-card"><div class="city-service-card__title">Установка раковины</div><div class="city-service-card__price">от 800 ₽</div></a>
+                    <a href="services/ustanovka-bide.html" class="city-service-card"><div class="city-service-card__title">Установка биде</div><div class="city-service-card__price">от 1 200 ₽</div></a>
+                    <a href="services/ustanovka-installyacii.html" class="city-service-card"><div class="city-service-card__title">Установка инсталляции</div><div class="city-service-card__price">от 3 000 ₽</div></a>
+                    <a href="services/ustanovka-gigienicheskogo-dusha.html" class="city-service-card"><div class="city-service-card__title">Установка гигиенического душа</div><div class="city-service-card__price">от 500 ₽</div></a>
+                </div>
+
+                <h3 style="font-size:18px;font-weight:700;color:var(--dark);margin-bottom:16px;">Смесители</h3>
+                <div class="services__grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin-bottom:32px;">
+                    <a href="services/ustanovka-smesitelya.html" class="city-service-card"><div class="city-service-card__title">Установка смесителя</div><div class="city-service-card__price">от 500 ₽</div></a>
+                    <a href="services/zamena-smesitelya.html" class="city-service-card"><div class="city-service-card__title">Замена смесителя</div><div class="city-service-card__price">от 500 ₽</div></a>
+                    <a href="services/remont-smesitelya.html" class="city-service-card"><div class="city-service-card__title">Ремонт смесителя</div><div class="city-service-card__price">от 300 ₽</div></a>
+                </div>
+
+                <h3 style="font-size:18px;font-weight:700;color:var(--dark);margin-bottom:16px;">Трубы</h3>
+                <div class="services__grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin-bottom:32px;">
+                    <a href="services/zamena-trub.html" class="city-service-card"><div class="city-service-card__title">Замена труб</div><div class="city-service-card__price">от 500 ₽/м</div></a>
+                    <a href="services/zamena-stoyakov.html" class="city-service-card"><div class="city-service-card__title">Замена стояков</div><div class="city-service-card__price">от 3 000 ₽</div></a>
+                    <a href="services/razvodka-trub.html" class="city-service-card"><div class="city-service-card__title">Разводка труб</div><div class="city-service-card__price">от 500 ₽/м</div></a>
+                    <a href="services/payka-polipropilenovykh-trub.html" class="city-service-card"><div class="city-service-card__title">Пайка полипропиленовых труб</div><div class="city-service-card__price">от 200 ₽/соед.</div></a>
+                </div>
+
+                <h3 style="font-size:18px;font-weight:700;color:var(--dark);margin-bottom:16px;">Водонагреватели</h3>
+                <div class="services__grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin-bottom:32px;">
+                    <a href="services/ustanovka-boylera.html" class="city-service-card"><div class="city-service-card__title">Установка бойлера</div><div class="city-service-card__price">от 1 500 ₽</div></a>
+                    <a href="services/podklyuchenie-vodonagrevatelya.html" class="city-service-card"><div class="city-service-card__title">Подключение водонагревателя</div><div class="city-service-card__price">от 800 ₽</div></a>
+                    <a href="services/remont-vodonagrevatelya.html" class="city-service-card"><div class="city-service-card__title">Ремонт водонагревателя</div><div class="city-service-card__price">от 500 ₽</div></a>
+                </div>
+
+                <h3 style="font-size:18px;font-weight:700;color:var(--dark);margin-bottom:16px;">Канализация</h3>
+                <div class="services__grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin-bottom:32px;">
+                    <a href="services/prochistka-kanalizacii.html" class="city-service-card"><div class="city-service-card__title">Прочистка канализации</div><div class="city-service-card__price">от 500 ₽</div></a>
+                    <a href="services/ustranenie-zasorov.html" class="city-service-card"><div class="city-service-card__title">Устранение засоров</div><div class="city-service-card__price">от 400 ₽</div></a>
+                    <a href="services/zamena-kanalizacii.html" class="city-service-card"><div class="city-service-card__title">Замена канализации</div><div class="city-service-card__price">от 600 ₽/м</div></a>
+                </div>
+
+                <h3 style="font-size:18px;font-weight:700;color:var(--dark);margin-bottom:16px;">Отопление</h3>
+                <div class="services__grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin-bottom:32px;">
+                    <a href="services/ustanovka-radiatorov.html" class="city-service-card"><div class="city-service-card__title">Установка радиаторов</div><div class="city-service-card__price">от 1 500 ₽</div></a>
+                    <a href="services/zamena-batarey.html" class="city-service-card"><div class="city-service-card__title">Замена батарей</div><div class="city-service-card__price">от 2 000 ₽</div></a>
+                    <a href="services/montazh-tyoplogo-pola.html" class="city-service-card"><div class="city-service-card__title">Монтаж тёплого пола</div><div class="city-service-card__price">от 500 ₽/м²</div></a>
+                </div>
+
+                <h3 style="font-size:18px;font-weight:700;color:var(--dark);margin-bottom:16px;">Счётчики воды</h3>
+                <div class="services__grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin-bottom:32px;">
+                    <a href="services/ustanovka-schyotchikov-vody.html" class="city-service-card"><div class="city-service-card__title">Установка счётчиков воды</div><div class="city-service-card__price">от 800 ₽</div></a>
+                    <a href="services/zamena-schyotchikov-vody.html" class="city-service-card"><div class="city-service-card__title">Замена счётчиков воды</div><div class="city-service-card__price">от 700 ₽</div></a>
+                    <a href="services/poverka-schyotchikov-vody.html" class="city-service-card"><div class="city-service-card__title">Поверка счётчиков воды</div><div class="city-service-card__price">от 350 ₽</div></a>
                 </div>
             </div>
         </div>

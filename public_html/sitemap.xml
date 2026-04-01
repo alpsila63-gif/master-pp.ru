@@ -1,42 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Главная -->
   <url>
     <loc>https://master-pp.ru/</loc>
     <lastmod>2026-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-
-  <!-- Города -->
   <url>
     <loc>https://master-pp.ru/cities/pavlovskiy-posad.html</loc>
     <lastmod>2026-04-01</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://master-pp.ru/cities/elektrogorsk.html</loc>
     <lastmod>2026-04-01</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://master-pp.ru/cities/noginsk.html</loc>
     <lastmod>2026-04-01</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://master-pp.ru/cities/elektrostal.html</loc>
     <lastmod>2026-04-01</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
-
-  <!-- Услуги -->
   <url>
-    <loc>https://master-pp.ru/services/zamena-smesitelya.html</loc>
+    <loc>https://master-pp.ru/services/ustanovka-vanny.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/services/ustanovka-dushevoy-kabiny.html</loc>
     <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -48,13 +49,43 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://master-pp.ru/services/ustranenie-zasora.html</loc>
+    <loc>https://master-pp.ru/services/ustanovka-rakoviny.html</loc>
     <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://master-pp.ru/services/ustranenie-protechki.html</loc>
+    <loc>https://master-pp.ru/services/ustanovka-bide.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/services/ustanovka-installyacii.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/services/ustanovka-gigienicheskogo-dusha.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/services/ustanovka-smesitelya.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/services/zamena-smesitelya.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/services/remont-smesitelya.html</loc>
     <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -66,25 +97,37 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://master-pp.ru/services/podklyuchenie-stiralnoy-mashiny.html</loc>
+    <loc>https://master-pp.ru/services/zamena-stoyakov.html</loc>
     <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://master-pp.ru/services/ustanovka-rakoviny.html</loc>
+    <loc>https://master-pp.ru/services/razvodka-trub.html</loc>
     <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://master-pp.ru/services/remont-bachka-unitaza.html</loc>
+    <loc>https://master-pp.ru/services/payka-polipropilenovykh-trub.html</loc>
     <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://master-pp.ru/services/zamena-polotencesushitelya.html</loc>
+    <loc>https://master-pp.ru/services/ustanovka-boylera.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/services/podklyuchenie-vodonagrevatelya.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/services/remont-vodonagrevatelya.html</loc>
     <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -95,44 +138,688 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
-  <!-- Блог -->
   <url>
-    <loc>https://master-pp.ru/blog/</loc>
-    <lastmod>2026-03-30</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://master-pp.ru/services/ustranenie-zasorov.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/services/zamena-kanalizacii.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/services/ustanovka-radiatorov.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/services/zamena-batarey.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/services/montazh-tyoplogo-pola.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/services/ustanovka-schyotchikov-vody.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/services/zamena-schyotchikov-vody.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/services/poverka-schyotchikov-vody.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/ustanovka-vanny.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://master-pp.ru/blog/kak-vybrat-santehnika-v-pavlovskom-posade.html</loc>
-    <lastmod>2026-03-15</lastmod>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/ustanovka-dushevoy-kabiny.html</loc>
+    <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://master-pp.ru/blog/protechka-smesitelya-chto-delat-srazu.html</loc>
-    <lastmod>2026-03-15</lastmod>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/ustanovka-unitaza.html</loc>
+    <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://master-pp.ru/blog/kogda-nuzhna-prochistka-kanalizatsii.html</loc>
-    <lastmod>2026-03-15</lastmod>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/ustanovka-rakoviny.html</loc>
+    <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://master-pp.ru/blog/zamena-trub-v-kvartire-kogda-pora.html</loc>
-    <lastmod>2026-03-15</lastmod>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/ustanovka-bide.html</loc>
+    <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
-
-  <!-- Прочее -->
+  <url>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/ustanovka-installyacii.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/ustanovka-gigienicheskogo-dusha.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/ustanovka-smesitelya.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/zamena-smesitelya.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/remont-smesitelya.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/zamena-trub.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/zamena-stoyakov.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/razvodka-trub.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/payka-polipropilenovykh-trub.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/ustanovka-boylera.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/podklyuchenie-vodonagrevatelya.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/remont-vodonagrevatelya.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/prochistka-kanalizacii.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/ustranenie-zasorov.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/zamena-kanalizacii.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/ustanovka-radiatorov.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/zamena-batarey.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/montazh-tyoplogo-pola.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/ustanovka-schyotchikov-vody.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/zamena-schyotchikov-vody.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/pavlovskiy-posad/poverka-schyotchikov-vody.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/ustanovka-vanny.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/ustanovka-dushevoy-kabiny.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/ustanovka-unitaza.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/ustanovka-rakoviny.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/ustanovka-bide.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/ustanovka-installyacii.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/ustanovka-gigienicheskogo-dusha.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/ustanovka-smesitelya.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/zamena-smesitelya.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/remont-smesitelya.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/zamena-trub.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/zamena-stoyakov.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/razvodka-trub.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/payka-polipropilenovykh-trub.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/ustanovka-boylera.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/podklyuchenie-vodonagrevatelya.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/remont-vodonagrevatelya.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/prochistka-kanalizacii.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/ustranenie-zasorov.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/zamena-kanalizacii.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/ustanovka-radiatorov.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/zamena-batarey.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/montazh-tyoplogo-pola.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/ustanovka-schyotchikov-vody.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/zamena-schyotchikov-vody.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrogorsk/poverka-schyotchikov-vody.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/ustanovka-vanny.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/ustanovka-dushevoy-kabiny.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/ustanovka-unitaza.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/ustanovka-rakoviny.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/ustanovka-bide.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/ustanovka-installyacii.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/ustanovka-gigienicheskogo-dusha.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/ustanovka-smesitelya.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/zamena-smesitelya.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/remont-smesitelya.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/zamena-trub.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/zamena-stoyakov.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/razvodka-trub.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/payka-polipropilenovykh-trub.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/ustanovka-boylera.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/podklyuchenie-vodonagrevatelya.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/remont-vodonagrevatelya.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/prochistka-kanalizacii.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/ustranenie-zasorov.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/zamena-kanalizacii.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/ustanovka-radiatorov.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/zamena-batarey.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/montazh-tyoplogo-pola.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/ustanovka-schyotchikov-vody.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/zamena-schyotchikov-vody.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/noginsk/poverka-schyotchikov-vody.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/ustanovka-vanny.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/ustanovka-dushevoy-kabiny.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/ustanovka-unitaza.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/ustanovka-rakoviny.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/ustanovka-bide.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/ustanovka-installyacii.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/ustanovka-gigienicheskogo-dusha.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/ustanovka-smesitelya.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/zamena-smesitelya.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/remont-smesitelya.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/zamena-trub.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/zamena-stoyakov.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/razvodka-trub.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/payka-polipropilenovykh-trub.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/ustanovka-boylera.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/podklyuchenie-vodonagrevatelya.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/remont-vodonagrevatelya.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/prochistka-kanalizacii.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/ustranenie-zasorov.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/zamena-kanalizacii.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/ustanovka-radiatorov.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/zamena-batarey.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/montazh-tyoplogo-pola.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/ustanovka-schyotchikov-vody.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/zamena-schyotchikov-vody.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/cities/elektrostal/poverka-schyotchikov-vody.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/blog/index.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
   <url>
     <loc>https://master-pp.ru/privacy.html</loc>
     <lastmod>2026-04-01</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
