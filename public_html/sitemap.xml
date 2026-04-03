@@ -814,6 +814,30 @@
     <loc>https://master-pp.ru/blog/index.html</loc>
     <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/blog/kak-vybrat-santehnika-v-pavlovskom-posade.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/blog/kogda-nuzhna-prochistka-kanalizatsii.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/blog/protechka-smesitelya-chto-delat-srazu.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://master-pp.ru/blog/zamena-trub-v-kvartire-kogda-pora.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>

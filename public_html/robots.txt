@@ -1,7 +1,4 @@
-# TEMPORARY: Site closed for indexing during development
-# TODO: Re-enable indexing after all changes are complete
-
 User-agent: *
-Disallow: /
+Allow: /
 
 Sitemap: https://master-pp.ru/sitemap.xml

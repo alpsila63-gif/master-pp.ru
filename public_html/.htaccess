@@ -65,9 +65,6 @@ RewriteRule ^(.*)$ https://master-pp.ru/$1 [L,R=301]
         Header set Cache-Control "public, max-age=3600, must-revalidate"
     </FilesMatch>
 
-    # TEMPORARY: Block indexing during development (remove after launch)
-    Header set X-Robots-Tag "noindex, nofollow"
-
     # Security headers
     Header set X-Content-Type-Options "nosniff"
     Header set X-Frame-Options "SAMEORIGIN"
@@ -82,7 +79,7 @@ RewriteRule ^(.*)$ https://master-pp.ru/$1 [L,R=301]
 FileETag None
 
 # === Custom 404 ===
-ErrorDocument 404 /index.html
+ErrorDocument 404 /404.html
 
 # === Block access to hidden files ===
 <FilesMatch "^\.">
