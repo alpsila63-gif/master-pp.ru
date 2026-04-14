@@ -215,20 +215,20 @@ a {
 }
 
 .logo {
-    display: flex;
+    display: inline-flex;
     align-items: center;
-    gap: 8px;
-    font-size: 24px;
-    font-weight: 800;
-    color: var(--dark);
+    text-decoration: none;
 }
 
-.logo__icon {
-    font-size: 28px;
+.logo__img {
+    height: 44px;
+    width: auto;
+    display: block;
 }
 
-.logo__accent {
-    color: var(--primary);
+.footer .logo__img {
+    height: 52px;
+    filter: brightness(0) invert(1);
 }
 
 .nav {
