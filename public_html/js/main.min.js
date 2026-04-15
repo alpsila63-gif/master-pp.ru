@@ -73,31 +73,21 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // === Form submit ===
+    // Form posts directly to FormSubmit (action="https://formsubmit.co/...").
+    // We attach a lightweight handler only to:
+    //  1) inject the source page URL into a hidden field
+    //  2) disable the submit button to prevent double-submits
     var form = document.getElementById('contactForm');
     if (form) {
-        form.addEventListener('submit', function(e) {
-            e.preventDefault();
+        var pageInput = form.querySelector('input[name="_page"]');
+        if (pageInput) pageInput.value = location.href;
 
-            var name = (form.querySelector('input[name="name"]') || {}).value || '';
-            var phone = (form.querySelector('input[name="phone"]') || {}).value || '';
-            var message = (form.querySelector('textarea[name="message"]') || {}).value || '';
-            var text = encodeURIComponent(
-                'Новая заявка с сайта master-pp.ru\n' +
-                'Имя: ' + (name || 'Не указано') + '\n' +
-                'Телефон: ' + (phone || 'Не указан') + '\n' +
-                'Задача: ' + (message || 'Не указана')
-            );
-
-            var wrapper = document.querySelector('.contact__form-wrapper');
-            wrapper.innerHTML = '<div class="form-success">' +
-                '<div class="form-success__icon">&#9989;</div>' +
-                '<div class="form-success__title">Заявка отправлена</div>' +
-                '<div class="form-success__text">Мастер перезвонит вам в ближайшее время</div>' +
-                '</div>';
-
-            // Send form data via email service or backend
-            // For now, log the submission
-            console.log('Form submitted:', { name: name, phone: phone, message: message });
+        form.addEventListener('submit', function() {
+            var btn = form.querySelector('button[type="submit"]');
+            if (btn) {
+                btn.disabled = true;
+                btn.innerText = 'Отправляется…';
+            }
         });
     }
 

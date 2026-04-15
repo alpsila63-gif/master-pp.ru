@@ -391,7 +391,12 @@
                 </div>
                 <div class="contact__form-wrapper">
                     <h3 class="contact__form-title">Заявка на вызов сантехника</h3>
-                    <form class="contact__form" id="contactForm">
+                    <form class="contact__form" id="contactForm" action="https://formsubmit.co/lionswrt@gmail.com" method="POST">
+                        <input type="hidden" name="_subject" value="Заявка с сайта master-pp.ru">
+                        <input type="hidden" name="_template" value="table">
+                        <input type="hidden" name="_captcha" value="false">
+                        <input type="hidden" name="_next" value="https://master-pp.ru/thanks.html">
+                        <input type="hidden" name="_page" value="">
                         <div class="form__group">
                             <input type="text" class="form__input" name="name" placeholder="Ваше имя" required>
                         </div>
