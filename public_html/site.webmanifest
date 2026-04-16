@@ -1,6 +1,13 @@
 {
-  "name": "?????? ??",
-  "short_name": "?????? ??",
+  "name": "\u041c\u0430\u0441\u0442\u0435\u0440 \u041f\u041f",
+  "short_name": "\u041c\u0430\u0441\u0442\u0435\u0440 \u041f\u041f",
+  "description": "\u0427\u0430\u0441\u0442\u043d\u044b\u0439 \u0441\u0430\u043d\u0442\u0435\u0445\u043d\u0438\u043a \u0432 \u041f\u0430\u0432\u043b\u043e\u0432\u0441\u043a\u043e\u043c \u041f\u043e\u0441\u0430\u0434\u0435 \u0438 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0445 \u0433\u043e\u0440\u043e\u0434\u0430\u0445.",
+  "lang": "ru",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#eff6ff",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -12,8 +19,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "theme_color": "#2563eb",
-  "background_color": "#eff6ff",
-  "display": "standalone"
+  ]
 }
